@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="1 History" type="Images" />
+      <mapping ext="jpg&quot;" type="Images" />
+      <mapping ext="png&quot;" type="Images" />
+      <mapping pattern="hola" type="Native" />
+    </extensionMap>
+  </component>
+</application>
